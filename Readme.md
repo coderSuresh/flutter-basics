@@ -1,12 +1,14 @@
 # Flutter Basics
 In this repository, you can see all basic apps created as a part of learning. Here is a list:
 
-## [1.) Don Doggo](#the-doctor)
+## [1.) Don Doggo](#don-doggo)
 
 ### Features
     - card used
     - display circular image with contact details
     - Rows, Colums, container used
+
+### [View Screenshot](#don-doggo-ss)
 
 ## [2.) The Doctor](#the-doctor)
 
@@ -33,7 +35,7 @@ By doing this project, I learned to
 - use margin and padding
 - use sized box
 
-#### The Doctor SS
+#### Don doggo ss
 ![](./images/doggo.png)
 
 ## The doctor
