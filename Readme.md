@@ -58,7 +58,7 @@ By doing this project, I learned to
 - use card
 - use stateless widget
 
-#### Dice Roller SS
+#### Don Doggo SS
 ![](./images/doggo.png)
 
 ## The Doctor
