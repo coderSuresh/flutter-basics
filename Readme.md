@@ -1,28 +1,36 @@
 # Flutter Basics
 In this repository, you can see all basic apps created as a part of learning. Here is a list:
 
-## [Dice Roller](#dice-roller)
+## [1. Dice Roller](#dice-roller)
 
-    ### Features
-    - display two dice
-    - change number of both when any of the dice is pressed
+### Features
+- display two dice
+- change number of both when any of the dice is pressed
 
-    ### [View Screenshot](#dice-roller-ss)
+### [View Screenshot](#dice-roller-ss)
 
-## [The Doctor](#the-doctor)
+## [2. Don Doggo](#don-doggo)
 
-    ### Features
-    - Display image from local folder
+### Features
+- display circular avatar
+- display list with text preceeded by icons
 
-    ### [View Screenshot](#the-doctor-ss)
+### [View Screenshot](#random-cat-ss)
 
-## [Random Cat](#random-cat)
+## [3. The Doctor](#the-doctor)
 
-    ### Features
-    - Display random image from [Unsplash](https://unsplash.com)
-    - Display new image when app is re-opened
+### Features
+- Display image from local folder
 
-    ### [View Screenshot](#random-cat-ss)
+### [View Screenshot](#the-doctor-ss)
+
+## [4. Random Cat](#random-cat)
+
+### Features
+- Display random image from [Unsplash](https://unsplash.com)
+- Display new image when app is re-opened
+
+### [View Screenshot](#random-cat-ss)
 
 ## Dice Roller
 This app displays dice images from images folder (asset image). Images are wrapped inside of TextButton and displays random dice images everytime it is pressed.
@@ -38,6 +46,20 @@ By doing this project, I learned to
 
 #### Dice Roller SS
 ![](./images/dice-roller.png)
+
+## Don Doggo
+This app displays a circular image of dog, and two lists with phone number and email along with icons.
+
+### What I learned?
+By doing this project, I learned to
+
+- add icons and change their properties
+- use sized box, row, column, padding 
+- use card
+- use stateless widget
+
+#### Dice Roller SS
+![](./images/don-doggo.png)
 
 ## The Doctor
 This is a simple flutter app to displays a random AssetImage from images folder.
