@@ -15,7 +15,7 @@ In this repository, you can see all basic apps created as a part of learning. He
 - display circular avatar
 - display list with text preceeded by icons
 
-### [View Screenshot](#random-cat-ss)
+### [View Screenshot](#don-doggo-ss)
 
 ## [3. The Doctor](#the-doctor)
 
@@ -59,7 +59,7 @@ By doing this project, I learned to
 - use stateless widget
 
 #### Dice Roller SS
-![](./images/don-doggo.png)
+![](./images/doggo.png)
 
 ## The Doctor
 This is a simple flutter app to displays a random AssetImage from images folder.
