@@ -1,7 +1,14 @@
 # Flutter Basics
 In this repository, you can see all basic apps created as a part of learning. Here is a list:
 
-## [1. Dice Roller](#dice-roller)
+## [1. Xylophone](#xylophone)
+
+### Features
+- play seven different notes of xylophone when respective button is pressed
+
+### [View Screenshot](#xylophone-ss)
+
+## [2. Dice Roller](#dice-roller)
 
 ### Features
 - display two dice
@@ -9,7 +16,7 @@ In this repository, you can see all basic apps created as a part of learning. He
 
 ### [View Screenshot](#dice-roller-ss)
 
-## [2. Don Doggo](#don-doggo)
+## [3. Don Doggo](#don-doggo)
 
 ### Features
 - display circular avatar
@@ -17,20 +24,34 @@ In this repository, you can see all basic apps created as a part of learning. He
 
 ### [View Screenshot](#don-doggo-ss)
 
-## [3. The Doctor](#the-doctor)
+## [4. The Doctor](#the-doctor)
 
 ### Features
 - Display image from local folder
 
 ### [View Screenshot](#the-doctor-ss)
 
-## [4. Random Cat](#random-cat)
+## [5. Random Cat](#random-cat)
 
 ### Features
 - Display random image from [Unsplash](https://unsplash.com)
 - Display new image when app is re-opened
 
 ### [View Screenshot](#random-cat-ss)
+
+## Xylophone
+This app has 7 colorful buttons. When these buttons are clicked, different note (sound) of xylophone is played.
+
+### What I learned?
+By doing this project, I learned to
+
+- use packages 
+- use AudioPlayers to play audio from local file
+- shorten code by making function to create identical widgets with slightly different properties
+
+#### Xylophone SS
+![](./images/xylophone.png)
+
 
 ## Dice Roller
 This app displays dice images from images folder (asset image). Images are wrapped inside of TextButton and displays random dice images everytime it is pressed.
@@ -57,6 +78,7 @@ By doing this project, I learned to
 - use sized box, row, column, padding 
 - use card
 - use stateless widget
+- download and use custom font
 
 #### Don Doggo SS
 ![](./images/doggo.png)
