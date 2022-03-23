@@ -1,14 +1,23 @@
 # Flutter Basics
 In this repository, you can see all basic apps created as a part of learning. Here is a list:
 
-## [1. Xylophone](#xylophone)
+## [1. Quiz App](#quiz-app)
+
+### Features
+- display question along with two possible answers 'true' and 'false'
+- shows score in the form of tick or cross icon
+- Once the quiz is finished, alert dialog is shown and quiz is restarted.
+
+### [View Screenshot](#quiz-app-ss)
+
+## [2. Xylophone](#xylophone)
 
 ### Features
 - play seven different notes of xylophone when respective button is pressed
 
 ### [View Screenshot](#xylophone-ss)
 
-## [2. Dice Roller](#dice-roller)
+## [3. Dice Roller](#dice-roller)
 
 ### Features
 - display two dice
@@ -16,7 +25,7 @@ In this repository, you can see all basic apps created as a part of learning. He
 
 ### [View Screenshot](#dice-roller-ss)
 
-## [3. Don Doggo](#don-doggo)
+## [4. Don Doggo](#don-doggo)
 
 ### Features
 - display circular avatar
@@ -24,20 +33,34 @@ In this repository, you can see all basic apps created as a part of learning. He
 
 ### [View Screenshot](#don-doggo-ss)
 
-## [4. The Doctor](#the-doctor)
+## [5. The Doctor](#the-doctor)
 
 ### Features
 - Display image from local folder
 
 ### [View Screenshot](#the-doctor-ss)
 
-## [5. Random Cat](#random-cat)
+## [6. Random Cat](#random-cat)
 
 ### Features
 - Display random image from [Unsplash](https://unsplash.com)
 - Display new image when app is re-opened
 
 ### [View Screenshot](#random-cat-ss)
+
+## Quiz App
+This is a simple quiz app with around 13 true/false questions.
+
+### What I learned?
+By doing this project, I learned to
+
+- make different dart files to make code cleaner
+- use all concepts of Object Oriented Programming
+- display alert dialog using rflutter_alert package
+
+#### Quiz App SS
+![](./images/quizapp.png)
+
 
 ## Xylophone
 This app has 7 colorful buttons. When these buttons are clicked, different note (sound) of xylophone is played.
