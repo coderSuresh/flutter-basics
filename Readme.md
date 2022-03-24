@@ -65,7 +65,7 @@ By doing this project, I learned to
 - use visibility widget
 - add background image using BoxDecoration
 
-#### Quiz App SS
+#### Destini SS
 ![](./images/destini.png)
 
 ## Quiz App
