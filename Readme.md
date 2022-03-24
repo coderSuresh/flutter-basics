@@ -1,7 +1,14 @@
 # Flutter Basics
 In this repository, you can see all basic apps created as a part of learning. Here is a list:
 
-## [1. Quiz App](#quiz-app)
+## [# Destini - Story App](#destini)
+
+### Features
+- display different text (story) based on user's choice
+
+### [View Screenshot](#destini-ss)
+
+## [# Quiz App](#quiz-app)
 
 ### Features
 - display question along with two possible answers 'true' and 'false'
@@ -10,14 +17,14 @@ In this repository, you can see all basic apps created as a part of learning. He
 
 ### [View Screenshot](#quiz-app-ss)
 
-## [2. Xylophone](#xylophone)
+## [# Xylophone](#xylophone)
 
 ### Features
 - play seven different notes of xylophone when respective button is pressed
 
 ### [View Screenshot](#xylophone-ss)
 
-## [3. Dice Roller](#dice-roller)
+## [# Dice Roller](#dice-roller)
 
 ### Features
 - display two dice
@@ -25,7 +32,7 @@ In this repository, you can see all basic apps created as a part of learning. He
 
 ### [View Screenshot](#dice-roller-ss)
 
-## [4. Don Doggo](#don-doggo)
+## [# Don Doggo](#don-doggo)
 
 ### Features
 - display circular avatar
@@ -33,20 +40,33 @@ In this repository, you can see all basic apps created as a part of learning. He
 
 ### [View Screenshot](#don-doggo-ss)
 
-## [5. The Doctor](#the-doctor)
+## [# The Doctor](#the-doctor)
 
 ### Features
 - Display image from local folder
 
 ### [View Screenshot](#the-doctor-ss)
 
-## [6. Random Cat](#random-cat)
+## [# Random Cat](#random-cat)
 
 ### Features
 - Display random image from [Unsplash](https://unsplash.com)
 - Display new image when app is re-opened
 
 ### [View Screenshot](#random-cat-ss)
+
+## Destini
+Initially, it displays a text with two choices. Based on that choice, next text is shown.
+
+### What I learned?
+By doing this project, I learned to
+
+- implement and re-learn what I learned while making quiz app
+- use visibility widget
+- add background image using BoxDecoration
+
+#### Quiz App SS
+![](./images/destini.png)
 
 ## Quiz App
 This is a simple quiz app with around 13 true/false questions.
