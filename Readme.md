@@ -1,6 +1,14 @@
 # Flutter Basics
 In this repository, you can see all basic apps created as a part of learning. Here is a list:
 
+## [# BMI Calculator](#bmi-calculator)
+
+### Features
+- can calculate Body Mass Index (BMI) based on the user's input
+
+### [View Screenshot](#bmi-calculator-ss)
+
+
 ## [# Destini - Story App](#destini)
 
 ### Features
@@ -54,6 +62,26 @@ In this repository, you can see all basic apps created as a part of learning. He
 - Display new image when app is re-opened
 
 ### [View Screenshot](#random-cat-ss)
+
+## BMI Calculator
+You can enter height & weight to calculate BMI.
+
+### What I learned?
+By doing this project, I learned to
+
+- make custom button using RawMaterialButton
+- use constants and final
+- customize theme 
+- customize widgets
+- navigate between pages using Navigator
+- make custom widgets by combining widgets
+- use GestureDetector to detect tap on widget
+- use slider widget and customize it
+- work with enum
+- use conditional operator (ternary operator) to shorten the code
+
+#### BMI Calculator SS
+![](./images/bmi-calculator.png)
 
 ## Destini
 Initially, it displays a text with two choices. Based on that choice, next text is shown.
