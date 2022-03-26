@@ -6,7 +6,7 @@ In this repository, you can see all basic apps created as a part of learning. He
 ### Features
 - displays random quote using advice slip api every time a button is pressed
 
-### [View Screenshot](#random-advice-generator-ss)
+### [View Screenshot](#random-quote-generator-ss)
 
 
 ## [# BMI Calculator](#bmi-calculator)
