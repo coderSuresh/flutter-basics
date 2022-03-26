@@ -1,6 +1,14 @@
 # Flutter Basics
 In this repository, you can see all basic apps created as a part of learning. Here is a list:
 
+## [# Random Quote Generator](#random-quote-generator)
+
+### Features
+- displays random quote using advice slip api every time a button is pressed
+
+### [View Screenshot](#random-advice-generator-ss)
+
+
 ## [# BMI Calculator](#bmi-calculator)
 
 ### Features
@@ -62,6 +70,17 @@ In this repository, you can see all basic apps created as a part of learning. He
 - Display new image when app is re-opened
 
 ### [View Screenshot](#random-cat-ss)
+
+## Random Quote Generator
+Generates random quote using advice slip API
+
+### What I learned?
+By doing this project, I learned to
+
+- fetch data from api using http flutter package
+
+#### Random Quote Generator SS
+![](./images/random-quote.png)
 
 ## BMI Calculator
 You can enter height & weight to calculate BMI.
