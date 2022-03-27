@@ -8,6 +8,13 @@ In this repository, you can see all basic apps created as a part of learning. He
 
 ### [View Screenshot](#random-quote-generator-ss)
 
+## [# Calculator](#calculator)
+
+### Features
+- Can perform basic arithmatic operations
+
+### [View Screenshot](#calculator-ss)
+
 
 ## [# BMI Calculator](#bmi-calculator)
 
@@ -81,6 +88,19 @@ By doing this project, I learned to
 
 #### Random Quote Generator SS
 ![](./images/random-quote.png)
+
+## Calculator
+Able to perform four basic arithmatic operations
+
+### What I learned?
+By doing this project, I learned to
+
+- use SingleChildScrollView to enable scrolling
+- work with Table
+
+#### Calculator SS
+![](./images/calculator.png)
+
 
 ## BMI Calculator
 You can enter height & weight to calculate BMI.
