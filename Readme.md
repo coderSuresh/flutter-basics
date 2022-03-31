@@ -15,6 +15,14 @@ In this repository, you can see all basic apps created as a part of learning. He
 
 ### [View Screenshot](#calculator-ss)
 
+## [# Best Widgets](#best-widgets)
+
+### Features
+- login form with empty check validation
+- implemented bottom navigation, drawer, and pop up menu
+
+### [View Screenshot](#best-widgets-ss)
+
 
 ## [# BMI Calculator](#bmi-calculator)
 
@@ -100,6 +108,21 @@ By doing this project, I learned to
 
 #### Calculator SS
 ![](./images/calculator.png)
+
+## Best Widgets
+Some useful widgets
+
+### What I learned?
+By doing this project, I learned to
+
+- work with form
+- use popup menu
+- use bottom navigation bar
+- use navigation drawer
+- display alert dialog
+
+#### Best Widgets SS
+![](./images/best-widgets.gif)
 
 
 ## BMI Calculator
