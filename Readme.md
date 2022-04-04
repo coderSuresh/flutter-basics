@@ -1,6 +1,15 @@
 # Flutter Basics
 In this repository, you can see all basic apps created as a part of learning. Here is a list:
 
+## [# Image Gallery](#image-gallery)
+
+### Features
+- display images using [pexels](https://pexels.com) API
+- search images
+- one click to set image as wallpaper
+
+### [View Screenshot](#image-gallery-ss)
+
 ## [# Random Quote Generator](#random-quote-generator)
 
 ### Features
@@ -86,6 +95,22 @@ In this repository, you can see all basic apps created as a part of learning. He
 
 ### [View Screenshot](#random-cat-ss)
 
+## Image Gallery
+Displays images using Pexels API. A user can search images and set it as wallpaper on android. Made for learning purpose only.
+
+### What I learned?
+By doing this project, I learned to
+
+- fetch data from api and add authorization header
+- use SingleChildScrollView to enable scrolling
+- use TextEditingController
+- create and use model
+- check internet connection using Connectivity and InternetConnectionChecker packages
+- set wallpaper on android using 
+
+#### Image Gallery SS
+![](./images/image-gallery.jpg)
+
 ## Random Quote Generator
 Generates random quote using advice slip API
 
@@ -119,7 +144,7 @@ By doing this project, I learned to
 - use popup menu
 - use bottom navigation bar
 - use navigation drawer
-- display alert dialog
+- display alert dialog using showDialog
 
 #### Best Widgets SS
 ![](./images/best-widgets.gif)
