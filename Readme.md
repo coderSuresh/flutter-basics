@@ -106,7 +106,7 @@ By doing this project, I learned to
 - use TextEditingController
 - create and use model
 - check internet connection using Connectivity and InternetConnectionChecker packages
-- set wallpaper on android using 
+- set wallpaper on android using FlutterWallpaperManager
 
 #### Image Gallery SS
 ![](./images/image-gallery.jpg)
